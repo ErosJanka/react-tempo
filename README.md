@@ -31,7 +31,7 @@ Se quiser testar o projeto na sua máquina, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```sh
-    git clone <url-do-repositorio>
+    git clone <https://github.com/ErosJanka/react-tempo.git>
     ```
 2.  **Instale as dependências:**
     ```sh
